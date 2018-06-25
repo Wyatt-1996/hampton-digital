@@ -1,6 +1,9 @@
 {
   "name": "hampton-digital",
-  "version": "^5.7.1",
+  "version": "1.0.0",
+  "engines": {
+    "npm": "5.7.1"
+  },
   "description": "",
   "main": "index.js",
   "scripts": {
